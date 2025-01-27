@@ -1,4 +1,4 @@
-# What I'm Learning 🚀
+# What I'm Learning 
 
 A daily log of projects, concepts, and tools I'm exploring.
 
