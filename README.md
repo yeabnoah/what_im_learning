@@ -2,6 +2,14 @@
 
 A daily log of projects, concepts, and tools I'm exploring.
 
+
+---
+
+### Wed, Jan 28, 2025
+1. Golang  
+2. canvas and web sockets  
+3. Building excaldraw app
+
 ---
 
 ### Mon, Jan 27, 2025
