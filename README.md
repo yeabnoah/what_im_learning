@@ -2,6 +2,15 @@
 
 A daily log of projects, concepts, and tools I'm exploring.
 
+### Fri, Feb 03, 2025
+1. flutter ui
+2. State Managment in Flutter
+
+---
+
+### Fri, Jan 30, 2025
+1. Dart
+2. Flutter
 
 ---
 
@@ -14,7 +23,7 @@ A daily log of projects, concepts, and tools I'm exploring.
 
 ### Mon, Jan 27, 2025
 1. Web Sockets and WebRTC  
-2. Deploying and scaling web applications  
+2. Deploying and scaling realtime applications  
 3. Storytelling  
 
 ---
