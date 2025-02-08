@@ -2,6 +2,10 @@
 
 A daily log of projects, concepts, and tools I'm exploring.
 
+### Fri, Feb 08, 2025
+1. Building Local first apps with React Native
+2. Complex Gesture animations with Reanimated
+
 ### Fri, Feb 03, 2025
 1. flutter ui
 2. State Managment in Flutter
